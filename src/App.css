@@ -1,0 +1,27 @@
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 50%;
+  margin:auto;
+  max-width:450px;
+  margin-left:26%;
+  margin-top:15%
+  
+}
+
+form.example button {
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  margin-top:15%
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
